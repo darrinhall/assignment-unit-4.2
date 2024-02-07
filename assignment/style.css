@@ -1,0 +1,28 @@
+html, body {
+
+}
+
+header {
+    background-color: brown;
+}
+
+h2 {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    background-color: yellowgreen;
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
